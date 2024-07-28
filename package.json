@@ -1,0 +1,25 @@
+{
+  "name": "turbolinker",
+  "version": "1.0.0",
+  "description": "Simple HTML editor to insert anchor tag",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ahmdsabbir/TurboLinker.git"
+  },
+  "keywords": [
+    "editor",
+    "html",
+    "anchor",
+    "link"
+  ],
+  "author": "@ahmdsabbir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmdsabbir/TurboLinker/issues"
+  },
+  "homepage": "https://github.com/ahmdsabbir/TurboLinker#readme"
+}
